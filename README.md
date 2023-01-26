@@ -1,3 +1,14 @@
+# Small React project. Several forms displaying salaries, names of employees. Implemented filters, search, adding and removing employees from the list. Info bar with counters.
+
+
+
+
+
+
+
+
+___
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
